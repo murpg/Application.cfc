@@ -11,6 +11,7 @@
     },
     "bugs":"",
     "slug":"application-cfc",
+    "createPackageDirectory":false,
     "shortDescription":"A Generic Application.cfc",
     "description":"",
     "instructions":"",
