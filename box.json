@@ -1,17 +1,17 @@
 {
-    "name":"My Package",
-    "version":"0.0.0",
-    "author":"",
+    "name":"Application-cfc",
+    "version":"1.0.0",
+    "author":"George Murphy",
     "location":"murpg/Application.cfc",
     "homepage":"",
     "documentation":"",
     "repository":{
-        "type":"",
+        "type":"Git",
         "URL":""
     },
     "bugs":"",
     "slug":"application-cfc",
-    "shortDescription":"A sweet package",
+    "shortDescription":"A Generic Application.cfc",
     "description":"",
     "instructions":"",
     "changelog":"",
